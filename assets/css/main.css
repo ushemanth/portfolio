@@ -5614,17 +5614,17 @@ input[type="button"].btn-block {
 
 /* line 232, node_modules/bootstrap/scss/_navbar.scss */
 .navbar-light .navbar-text {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(255, 255, 255);
 }
 
 /* line 234, node_modules/bootstrap/scss/_navbar.scss */
 .navbar-light .navbar-text a {
-  color: rgba(0, 0, 0, 0.9);
+  color: rgba(255, 255, 255);
 }
 
 /* line 17, node_modules/bootstrap/scss/mixins/_hover.scss */
 .navbar-light .navbar-text a:hover, .navbar-light .navbar-text a:focus {
-  color: rgba(0, 0, 0, 0.9);
+  color: rgba(255, 255, 255);
 }
 
 /* line 246, node_modules/bootstrap/scss/_navbar.scss */
