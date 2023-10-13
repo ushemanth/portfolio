@@ -5077,14 +5077,14 @@ input[type="button"].btn-block {
 
 /* line 23, node_modules/bootstrap/scss/_nav.scss */
 .nav-link.disabled {
-  color: #6c757d;
+  color: #ffff;
   pointer-events: none;
   cursor: default;
 }
 
 /* line 34, node_modules/bootstrap/scss/_nav.scss */
 .nav-tabs {
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #ffff;
 }
 
 /* line 37, node_modules/bootstrap/scss/_nav.scss */
@@ -5101,12 +5101,12 @@ input[type="button"].btn-block {
 
 /* line 17, node_modules/bootstrap/scss/mixins/_hover.scss */
 .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
-  border-color: #e9ecef #e9ecef #dee2e6;
+  border-color: #ffff #ffff #ffff;
 }
 
 /* line 49, node_modules/bootstrap/scss/_nav.scss */
 .nav-tabs .nav-link.disabled {
-  color: #6c757d;
+  color: #ffff;
   background-color: transparent;
   border-color: transparent;
 }
@@ -5114,9 +5114,9 @@ input[type="button"].btn-block {
 /* line 56, node_modules/bootstrap/scss/_nav.scss */
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #d9d9d9;
+  color: #ffff;
   background-color: #fff;
-  border-color: #dee2e6 #dee2e6 #fff;
+  border-color: #ffff #fff #fff;
 }
 
 /* line 63, node_modules/bootstrap/scss/_nav.scss */
@@ -5135,7 +5135,7 @@ input[type="button"].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #007bff;
+  background-color: #ffff;
 }
 
 /* line 94, node_modules/bootstrap/scss/_nav.scss */
