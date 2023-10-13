@@ -5570,7 +5570,7 @@ input[type="button"].btn-block {
 
 /* line 194, node_modules/bootstrap/scss/_navbar.scss */
 .navbar-light .navbar-brand {
-  color: rgba(255, 255, 255);
+  color:#fff;
 }
 
 /* line 17, node_modules/bootstrap/scss/mixins/_hover.scss */
